@@ -10,8 +10,8 @@ https://servicodados.ibge.gov.br/api/v1/localidades/estados
 
 ### Prints do sistema funcionando em um computador
 
-Em breve.
+![Responsividade - Computador](https://zanitti.com.br/imagens/outras/cc_computer.jpg)
 
 ### Prints do sistema funcionando em um mobile
 
-Em breve.
+![Responsividade - Computador](https://zanitti.com.br/imagens/outras/cc_mobile.jpg)
