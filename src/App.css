@@ -1,0 +1,111 @@
+.App {
+  margin-top: 2em;
+  margin-left: 2em;
+}
+
+.container-filtros {
+  display: flex;
+  height: 9em;
+}
+
+.formulario-pesquisa {
+  display: inline-grid;
+  grid-template-columns: 1fr;
+  text-align: left;
+  font-size: 0.9em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-left: 1em;
+  width: 60em;
+  height: auto;
+}
+
+.formulario-pesquisa-somente-cep {
+  height: 5em;
+  margin-top: 2.5em;
+}
+
+.info-result-enderecos {
+  background-color: whitesmoke;
+  width: 18em;
+  height: 10em;
+  padding: 1em;
+  border-radius: 1em;
+  margin: 1em;
+  text-align: left;
+  font-size: 0.9em;
+  font-family: "Source Code Pro", monospace;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
+}
+
+.btn-card {
+  transition: 0.3s;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.cep-resultado {
+  font-weight: bold;
+  font-size: 1.1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.campo {
+  font-weight: normal;
+  font-size: 0.9em;
+  display: block;
+  margin-bottom: 0.4em;
+  color: lightslategrey;
+}
+
+.campo-resposta {
+  font-weight: normal;
+  font-size: 0.9em;
+  margin-bottom: 0.4em;
+  padding-right: 0.4em;
+  color: lightslategrey;
+}
+
+.input-form-9 {
+  width: 10em;
+  height: 2em;
+  text-align: left;
+  justify-content: center;
+  padding-left: 1em;
+  color: dimgrey;
+}
+
+.input-form-acima2 {
+  width: 25em;
+  height: 2em;
+  text-align: left;
+  justify-content: center;
+  padding-left: 1em;
+  color: dimgrey;
+}
+
+button {
+  background-color: gainsboro;
+  color: black;
+  border: 1px solid #222;
+  border-radius: 5px;
+  padding: 0.7em;
+  width: 10em;
+  height: 3em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  cursor: pointer;
+}
+
+.resultados-gerais {
+  width: 90%;
+  display: inline-grid;
+  grid-template-columns: repeat(auto-fill, minmax(19em, 1fr));
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-bottom: 5em;
+}
