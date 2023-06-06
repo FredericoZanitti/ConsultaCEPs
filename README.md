@@ -5,6 +5,7 @@ Consulta de CEPs do Brasil: consulta pelo CEP para obter o endereço ou consulta
 ## API Utilizada
 
 https://viacep.com.br
+
 https://servicodados.ibge.gov.br/api/v1/localidades/estados
 
 ### Prints do sistema funcionando em um computador
