@@ -2,7 +2,7 @@
 
 Consulta de CEPs do Brasil: consulta pelo CEP para obter o endereço ou consulta por parte do endereço para obter o CEP. A consulta por endereço é obrigatório informar todos os campos. 
 
-## API Utilizada
+## APIs Utilizadas
 
 https://viacep.com.br
 
