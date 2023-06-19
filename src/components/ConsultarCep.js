@@ -2,6 +2,7 @@ import { buscarCep } from "../api/buscarcep";
 import { useEffect, useState } from "react";
 import EscolherTipoPesquisa from "./EscolherTipoPesquisa";
 import EscolherUF from "./EscolherUF";
+import { FaCopy } from "react-icons/fa";
 
 export default function ConsultarCep() {
   const [cep, setCep] = useState("");
